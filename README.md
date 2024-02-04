@@ -1,4 +1,4 @@
-# VENT_ATS_ModPack
+# About VENT_ATS_ModPack:
 This is a Mod Pack for Velociti Entertainments Private ATS Server.
 
 - Contents moved to [Google Drive]( https://drive.google.com/drive/folders/1z6e2CH5uWjL1nUaiXyyy-O-J5mcRA8pU?usp=drive_link )
@@ -26,7 +26,7 @@ This is a Mod Pack for Velociti Entertainments Private ATS Server.
 ### License
 VENT_ATS_ModPack - Mod Pack for Velociti Entertainments ATS Server.
 
-Copyright (C) 2023 Velociti Entertainment
+Copyright (C) 2024 Velociti Entertainment
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
